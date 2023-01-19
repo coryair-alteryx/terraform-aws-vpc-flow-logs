@@ -1,12 +1,8 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/umotif-public/terraform-aws-vpc-flow-logs?style=social)
 
-# terraform-aws-vpc-flow-logs
+# terraform-aws-vpc-flow-logs - forked for Alteryx :D
 
 Terraform module for enabling AWS VPC flow logs with CloudWatch sink.
-
-## Terraform versions
-
-Terraform 0.12. Pin module version to `~> v1.1.0`. Submit pull-requests to `master` branch.
 
 ## Usage
 
