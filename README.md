@@ -74,20 +74,3 @@ Module managed by [Marcin Cuber](https://github.com/marcincuber) [LinkedIn](http
 ## License
 
 See LICENSE for full details.
-
-## Pre-commit hooks
-
-### Install dependencies
-
-* [`pre-commit`](https://pre-commit.com/#install)
-* [`terraform-docs`](https://github.com/segmentio/terraform-docs) required for `terraform_docs` hooks.
-* [`TFLint`](https://github.com/terraform-linters/tflint) required for `terraform_tflint` hook.
-
-#### MacOS
-
-```bash
-brew install pre-commit terraform-docs tflint
-
-brew tap git-chglog/git-chglog
-brew install git-chglog
-```
